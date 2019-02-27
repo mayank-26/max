@@ -1,5 +1,5 @@
 class Smax
-{
+{//this 2 varialbe method.
 	public static void main(String args[])
 	{
 	
